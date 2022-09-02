@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Fluid
   - egg
+  - glass1
+  - glass2_round
   layers:
   - Default
   - TransparentFX
