@@ -8,6 +8,8 @@ TagManager:
   - egg
   - glass1
   - glass2_round
+  - glass2
+  - glass3
   layers:
   - Default
   - TransparentFX
