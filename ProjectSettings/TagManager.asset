@@ -10,6 +10,8 @@ TagManager:
   - glass2_round
   - glass2
   - glass3
+  - glass4
+  - glass1_round
   layers:
   - Default
   - TransparentFX
